@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitGetter</string>
+    <string name="hint">GitHub Repository Name</string>
 </resources>
